@@ -11,6 +11,6 @@ Numpy etc.
 Github is used for collaborate working and deploying the project.
 Netlify is used for hosting the website on the server.
 
-**Results: **The result of the system leads to the pdf generation of the students test marks and based on that courses are recommended to them.
+**Results:** The result of the system leads to the pdf generation of the students test marks and based on that courses are recommended to them.
 
-**Future Scope: **In addition to academic history and course content, future course recommendation systems could also take into account data from social media, extracurricular activities, and other sources to generate more accurate recommendations.
+**Future Scope:** In addition to academic history and course content, future course recommendation systems could also take into account data from social media, extracurricular activities, and other sources to generate more accurate recommendations.
